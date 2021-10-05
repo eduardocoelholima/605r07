@@ -5,36 +5,24 @@ as some notes used in RIT course CSCI605's recitation
 sessions.
 
 ---
-### HW5.1: Using multiple classes to make a Solar System
 
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-475.html
-- Planet.java
-- SolarSystem.java
+### HW6.1: Multi-type storage
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-399.html
 
-### HW5.2: Implement Array and Flexible storage classes
+### HW6.2: Chess-like game, revisited
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-400.html
 
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-476.html
-- Storage.java, Array.java, Flexible.java, Test.java, TestString.java
+### HW6.3: Chess-like game, 3D
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-401.html
 
-### HW5.3: Class inheritance and Interfaces
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-477.html
-- {AbstractClass, I1, I2, C1, C2, C3, C4, C5, C6}.java
-- hw53solution.tiff
-- TestAllSolution.java
+### HW7.1: Multi-type storage, custom objects
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-405.html
 
-### HW6.1: Solar System using multiple classes
+### HW7.2: Chess-like game, 2D, with abstract classes
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-406.html
 
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-479.html
-- Questions?
-
-### HW6.2: Fixing our Solar System classes
-
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-480.html
-- Questions?
-
-### HW6.3: Generic Expressions
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-481.html
-- Questions?
+### HW7.3: Chess-like game, 2D, with interfaces
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-407.html
 
 ### Interfaces: a splittable interface
 
